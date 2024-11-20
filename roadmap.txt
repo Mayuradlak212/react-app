@@ -1,0 +1,53 @@
+1. operator 
+2. let vs var vs const 
+3. Data Type  and it's Method 
+--> Local storage and Session Storage , Cookies 
+4. Event 
+5. Array and it's method
+6. function 
+7. Loop , and it's Type 
+8. Control Flow Stetement --> if else and else if , switch break , continue
+9. Date Function in js 
+10. Hoisting 
+11. IIFE --> 
+12. Clouser 
+13. Exception Handling --> try catch , finally 
+14. Callback 
+15. Promises 
+16. Spread and Destructuring  ( Array and Object )
+17. Asynchronous Programming and Thread --> async and await 
+18. Event Loop 
+
+  React --> Complete React  and Create Project 
+  1 . Intro of React --> Working flow , jsx , virtual Dom , Component  --> Done 
+  2. How to create a project in React  --> Done 
+  3. Uderstanding of Project --> Done 
+  4. How to Create Component --> Done 
+  5. How to Use Use Component
+  6. React Routing 
+  6.1 Hooks in React 
+  7. State and Props in React 
+  8. Conditional Rendering 
+  9. Render a List 
+  10. How to Write Dynamic Component 
+  11. Event in React 
+  12. Local Storage and Session Storage and Cookies 
+  12. Pure Component , Closure, High Order Component, Controlled and Uncontrolled Component
+
+  
+  13. API Integration  in React , --> Backend Connection 
+  14. Full Stack Project using MERN 
+  M-> MongoDB
+  E-> Express
+  R-> React
+  N->Node Js 
+
+
+
+  Node & Express with MongoDB --> Complete Node and Express and Create API for Project with MongoDB Database 
+
+
+
+
+
+Project Idea for Minor Project - Web Dev 
