@@ -24,9 +24,13 @@
   3. Uderstanding of Project --> Done 
   4. How to Create Component --> Done 
   5. How to Use Use Component
-  6. React Routing 
+  Life Cycle of Component
+
   6.1 Hooks in React 
+  React CSS inline CSS in React 
   7. State and Props in React 
+   How to Write Dynamic Component 
+  6. React Routing 
   8. Conditional Rendering 
   9. Render a List 
   10. How to Write Dynamic Component 
