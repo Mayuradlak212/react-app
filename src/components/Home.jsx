@@ -1,35 +1,40 @@
-import React, { useState, useEffect, useMemo , useCallback, useRef  } from "react";
+import React, { useState  } from "react";
+import Child from "./Child";
 function Home() {
       // Declare a new state variable, which we'll call "count"
   const [count, setCount] = useState(0);
-  const [name,setName]=useState("")
+  // const [name,setName]=useState("")
 //   let count=0;
 // useState, useEffect, useMemo , useCallback, useRef 
-  const countIncrement = () => {
-    setCount(count + 1);
-    // count=count+1;
-  };
-  const countDecrement = () => {
-    setCount(count - 1);
-    // count=count-1;
+  // const countIncrement = () => {
+  //   setCount(count + 1);
+  //   // count=count+1;
+  // };
+  // const countDecrement = () => {
+  //   setCount(count - 1);
+  //   // count=count-1;
 
-  };
-  const onChange=(e)=>{
-    setName(e.target.value)
-  }
+  // };
+  // const onChange=(e)=>{
+  //   setName(e.target.value)
+  // }
+
+const arr=[1,2,4,5,6];
+const person={
+  name:"Mayur",
+  age:25,
+  city:"Pune",
+  position:"Senior Software Engineer"
+}
+
+const status=true;
   return (
-    <div>
-        {/* <h1>  Count Value :   {count} </h1>
+    <React.Fragment>
+       {/* <h1> Hii Weolcome TO Props </h1>
+       <Child  arr={arr}   person={person} /> */}
 
-      <h1>Hii Guys Weolcome to Hooks </h1>
-
-   <button  onClick={countIncrement}>  + </button>
-   <button onClick={countDecrement}>   - </button> */}
-
-  <h2>  My name is : {name}</h2>
-    <input type="text" onChange={onChange}  placeholder="Enter your name " />
-
-    </div>
+       <h1>  Hello Welcome to Home Page Guys </h1>
+    </React.Fragment>
   );
 }
 
