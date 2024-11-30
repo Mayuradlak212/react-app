@@ -32,7 +32,7 @@
    How to Write Dynamic Component 
   6. React Routing 
   8. Conditional Rendering 
-  9. Render a List 
+  9. Render a List  API 
   10. How to Write Dynamic Component 
   11. Event in React 
   12. Local Storage and Session Storage and Cookies 

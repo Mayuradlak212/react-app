@@ -1,0 +1,17 @@
+.nav-container ul{
+    background-color: rgb(105, 105, 236);
+    padding: 10px 10px;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+
+.nav-container ul {
+   list-style-type: none;
+}
+.nav-container ul li a{
+    text-decoration: none;
+    color: white;
+    list-style-type: none;
+  padding: 5px 5px ;
+}
